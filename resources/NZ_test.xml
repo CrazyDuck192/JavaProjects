@@ -1,0 +1,22 @@
+<Tensor>
+    <Items index="0">
+        <Items index="0">
+            <Item index="0">2</Item>
+            <Item index="1">4</Item>
+        </Items>
+        <Items index="1">
+            <Item index="0">6</Item>
+            <Item index="1">8</Item>
+        </Items>
+    </Items>
+    <Items index="1">
+        <Items index="0">
+            <Item index="0">1</Item>
+            <Item index="1">3</Item>
+        </Items>
+        <Items index="1">
+            <Item index="0">5</Item>
+            <Item index="1">7</Item>
+        </Items>
+    </Items>
+</Tensor>
